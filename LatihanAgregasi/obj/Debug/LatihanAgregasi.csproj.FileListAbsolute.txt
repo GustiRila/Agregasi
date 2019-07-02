@@ -1,0 +1,7 @@
+D:\18.11.2270\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe.config
+D:\18.11.2270\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe
+D:\18.11.2270\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.pdb
+D:\18.11.2270\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.csprojAssemblyReference.cache
+D:\18.11.2270\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.csproj.CoreCompileInputs.cache
+D:\18.11.2270\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.exe
+D:\18.11.2270\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.pdb
